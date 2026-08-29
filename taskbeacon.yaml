@@ -1,0 +1,24 @@
+id: T000105
+slug: visuomotor-rotation-adaptation
+title: Visuomotor Rotation Adaptation
+variant: baseline
+acquisition: behavior
+maturity: draft
+version:
+  release_tag: v0.1.0
+language: Chinese
+cognitive_domain:
+  - sensorimotor-adaptation
+  - motor-learning
+  - implicit-learning
+contracts:
+  taps: v0.2.0
+runtime:
+  profile: psyflow
+evidence:
+  - https://doi.org/10.1038/s41562-023-01798-0
+  - https://doi.org/10.1523/JNEUROSCI.3619-13.2014
+  - https://doi.org/10.1523/JNEUROSCI.5061-14.2015
+  - https://doi.org/10.1523/JNEUROSCI.3869-14.2015
+maintainer:
+  - TaskBeacon

@@ -1,0 +1,2185 @@
+[
+  {
+    "id": "W2058543238",
+    "title": "Augmented visual, auditory, haptic, and multimodal feedback in motor learning: A review",
+    "authors": [
+      "Roland Sigrist",
+      "Georg Rauter",
+      "Robert Riener",
+      "Peter Wolf"
+    ],
+    "year": 2012,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/s13423-012-0333-8",
+    "citation_count": 1392,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2016154932",
+    "title": "An Implicit Plan Overrides an Explicit Strategy during Visuomotor Adaptation",
+    "authors": [
+      "Pietro Mazzoni",
+      "John W. Krakauer"
+    ],
+    "year": 2006,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.5317-05.2006",
+    "citation_count": 907,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2083905756",
+    "title": "Explicit and Implicit Contributions to Learning in a Sensorimotor Adaptation Task",
+    "authors": [
+      "Jordan A. Taylor",
+      "John W. Krakauer",
+      "Richard B. Ivry"
+    ],
+    "year": 2014,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.3619-13.2014",
+    "citation_count": 893,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2106457270",
+    "title": "Functional Stages in the Formation of Human Long-Term Motor Memory",
+    "authors": [
+      "Reza Shadmehr",
+      "Thomas Brashers-Krug"
+    ],
+    "year": 1997,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.17-01-00409.1997",
+    "citation_count": 729,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2099553567",
+    "title": "Evidence for a dynamic-dominance hypothesis of handedness",
+    "authors": [
+      "Robert L. Sainburg"
+    ],
+    "year": 2002,
+    "journal": "Experimental Brain Research",
+    "doi_or_url": "https://doi.org/10.1007/s00221-001-0913-8",
+    "citation_count": 673,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2140313855",
+    "title": "Over my fake body: body ownership illusions for studying the multisensory basis of own-body perception",
+    "authors": [
+      "Konstantina Kilteni",
+      "Antonella Maselli",
+      "Konrad P. K\u00f6rding",
+      "Mel Slater"
+    ],
+    "year": 2015,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2015.00141",
+    "citation_count": 537,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1602511075",
+    "title": "Explicit and Implicit Processes Constitute the Fast and Slow Processes of Sensorimotor Learning",
+    "authors": [
+      "Samuel D. McDougle",
+      "Krista Bond",
+      "Jamie Taylor"
+    ],
+    "year": 2015,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.5061-14.2015",
+    "citation_count": 427,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1989328619",
+    "title": "Flexible Cognitive Strategies during Motor Learning",
+    "authors": [
+      "Jordan A. Taylor",
+      "Richard B. Ivry"
+    ],
+    "year": 2011,
+    "journal": "PLoS Computational Biology",
+    "doi_or_url": "https://doi.org/10.1371/journal.pcbi.1001096",
+    "citation_count": 406,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4237698667",
+    "title": "Visual Adaptation",
+    "authors": [
+      "Michael A. Webster"
+    ],
+    "year": 2015,
+    "journal": "Annual Review of Vision Science",
+    "doi_or_url": "https://doi.org/10.1146/annurev-vision-082114-035509",
+    "citation_count": 368,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1987840011",
+    "title": "The Influence of Movement Preparation Time on the Expression of Visuomotor Learning and Savings",
+    "authors": [
+      "Adrian M. Haith",
+      "David M. Huberdeau",
+      "John W. Krakauer"
+    ],
+    "year": 2015,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.3869-14.2015",
+    "citation_count": 270,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1847665193",
+    "title": "Savings upon Re-Aiming in Visuomotor Adaptation",
+    "authors": [
+      "J. Ryan Morehead",
+      "Salman E. Qasim",
+      "Matthew J. Crossley",
+      "Richard B. Ivry"
+    ],
+    "year": 2015,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.1046-15.2015",
+    "citation_count": 266,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2111770019",
+    "title": "Generalization of Motor Learning Depends on the History of Prior Action",
+    "authors": [
+      "John W. Krakauer",
+      "Pietro Mazzoni",
+      "Ali Ghazizadeh",
+      "Roshni Ravindran",
+      "Reza Shadmehr"
+    ],
+    "year": 2006,
+    "journal": "PLoS Biology",
+    "doi_or_url": "https://doi.org/10.1371/journal.pbio.0040316",
+    "citation_count": 260,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2156162813",
+    "title": "Spatial Generalization from Learning Dynamics of Reaching Movements",
+    "authors": [
+      "Reza Shadmehr",
+      "Z.M.K. Moussavi"
+    ],
+    "year": 2000,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.20-20-07807.2000",
+    "citation_count": 252,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2038267040",
+    "title": "Interaction of Visual and Proprioceptive Feedback During Adaptation of Human Reaching Movements",
+    "authors": [
+      "Robert A. Scheidt",
+      "Michael A. Conditt",
+      "Emanuele Lindo Secco",
+      "Ferdinando A. Mussa-Ivaldi"
+    ],
+    "year": 2005,
+    "journal": "Journal of Neurophysiology",
+    "doi_or_url": "https://doi.org/10.1152/jn.00947.2004",
+    "citation_count": 250,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2105145689",
+    "title": "Cerebellar Transcranial Direct Current Stimulation (ctDCS)",
+    "authors": [
+      "Giuliana Grimaldi",
+      "Georgios P. D. Argyropoulos",
+      "Amy J. Bastian",
+      "Mar Cortes",
+      "Nicholas J. Davis",
+      "Dylan J. Edwards",
+      "Roberta Ferrucci",
+      "Felipe Fregni",
+      "Joseph M. Galea",
+      "Masahi Hamada",
+      "Mario Manto",
+      "R. Chris Miall"
+    ],
+    "year": 2014,
+    "journal": "The Neuroscientist",
+    "doi_or_url": "https://doi.org/10.1177/1073858414559409",
+    "citation_count": 243,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1972319611",
+    "title": "Dual Adaptation Supports a Parallel Architecture of Motor Memory",
+    "authors": [
+      "Jeong-Yoon Lee",
+      "Nicolas Schweighofer"
+    ],
+    "year": 2009,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.1294-09.2009",
+    "citation_count": 219,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2051009534",
+    "title": "Convergent models of handedness and brain lateralization",
+    "authors": [
+      "Robert L. Sainburg"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2014.01092",
+    "citation_count": 218,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2089989390",
+    "title": "Neural correlates of the age-related changes in motor sequence learning and motor adaptation in older adults",
+    "authors": [
+      "Bradley R. King",
+      "Stuart Fogel",
+      "Genevi\u00e8ve Albouy",
+      "Julien Doyon"
+    ],
+    "year": 2013,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2013.00142",
+    "citation_count": 216,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2153634145",
+    "title": "Differences in Adaptation Rates after Virtual Surgeries Provide Direct Evidence for Modularity",
+    "authors": [
+      "Denise Berger",
+      "R. Gentner",
+      "Timothy Edmunds",
+      "Dinesh K. Pai",
+      "Andrea d\u2019Avella"
+    ],
+    "year": 2013,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.0122-13.2013",
+    "citation_count": 212,
+    "is_high_impact": false,
+    "open_access": false,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2907572562",
+    "title": "Dissociable cognitive strategies for sensorimotor learning",
+    "authors": [
+      "Samuel D. McDougle",
+      "Jordan A. Taylor"
+    ],
+    "year": 2018,
+    "journal": "Nature Communications",
+    "doi_or_url": "https://doi.org/10.1038/s41467-018-07941-0",
+    "citation_count": 207,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4316928347",
+    "title": "Serial dependence in visual perception: A review",
+    "authors": [
+      "David Pascucci",
+      "\u00d6mer Da\u011flar Tanr\u0131kulu",
+      "Ayberk Ozkirli",
+      "Christian Houborg",
+      "Gizay Ceylan",
+      "Paul Zerr",
+      "Mohsen Rafiei",
+      "\u00c1rni Kristj\u00e1nsson"
+    ],
+    "year": 2023,
+    "journal": "Journal of Vision",
+    "doi_or_url": "https://doi.org/10.1167/jov.23.1.9",
+    "citation_count": 200,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1977549822",
+    "title": "One Week of Motor Adaptation Induces Structural Changes in Primary Motor Cortex That Predict Long-Term Memory One Year Later",
+    "authors": [
+      "Sofia M. Landi",
+      "Federico Baguear",
+      "Valeria Della\u2010Maggiore"
+    ],
+    "year": 2011,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.2253-11.2011",
+    "citation_count": 194,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2082097833",
+    "title": "State-Dependent Effects of Transcranial Oscillatory Currents on the Motor System: What You Think Matters",
+    "authors": [
+      "Matteo Feurra",
+      "Patrizio Pasqualetti",
+      "Giovanni Bianco",
+      "Emiliano Santarnecchi",
+      "Alessandro Rossi",
+      "S\u00edmone Rossi"
+    ],
+    "year": 2013,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.1414-13.2013",
+    "citation_count": 192,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2953173626",
+    "title": "Invariant errors reveal limitations in motor correction rather than constraints on error sensitivity",
+    "authors": [
+      "Hyosub E. Kim",
+      "J. Ryan Morehead",
+      "Darius E. Parvin",
+      "Reza Moazzezi",
+      "Richard B. Ivry"
+    ],
+    "year": 2018,
+    "journal": "Communications Biology",
+    "doi_or_url": "https://doi.org/10.1038/s42003-018-0021-y",
+    "citation_count": 187,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2073815674",
+    "title": "The effect of contextual cues on the encoding of motor memories",
+    "authors": [
+      "Ian S. Howard",
+      "Daniel M. Wolpert",
+      "David W. Franklin"
+    ],
+    "year": 2013,
+    "journal": "Journal of Neurophysiology",
+    "doi_or_url": "https://doi.org/10.1152/jn.00773.2012",
+    "citation_count": 176,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2106507329",
+    "title": "Interlimb Transfer of Novel Inertial Dynamics Is Asymmetrical",
+    "authors": [
+      "Jinsung Wang",
+      "Robert L. Sainburg"
+    ],
+    "year": 2004,
+    "journal": "Journal of Neurophysiology",
+    "doi_or_url": "https://doi.org/10.1152/jn.00960.2003",
+    "citation_count": 174,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3097691005",
+    "title": "A review of interactions between peripheral and foveal vision",
+    "authors": [
+      "Emma E.M. Stewart",
+      "Matteo Valsecchi",
+      "Alexander C. Sch\u00fctz"
+    ],
+    "year": 2020,
+    "journal": "Journal of Vision",
+    "doi_or_url": "https://doi.org/10.1167/jov.20.12.2",
+    "citation_count": 171,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2024670610",
+    "title": "Left Parietal Regions Are Critical for Adaptive Visuomotor Control",
+    "authors": [
+      "Pratik K. Mutha",
+      "Robert L. Sainburg",
+      "Kathleen Y. Haaland"
+    ],
+    "year": 2011,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.6432-10.2011",
+    "citation_count": 166,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2168988273",
+    "title": "Mechanical and morphological properties of different muscle\u2013tendon units in the lower extremity and running mechanics: effect of aging and physical activity",
+    "authors": [
+      "Kiros Karamanidis",
+      "Adamantios Arampatzis"
+    ],
+    "year": 2005,
+    "journal": "Journal of Experimental Biology",
+    "doi_or_url": "https://doi.org/10.1242/jeb.01830",
+    "citation_count": 166,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1998840340",
+    "title": "Do we track what we see? Common versus independent processing for motion perception and smooth pursuit eye movements: A review",
+    "authors": [
+      "Miriam Spering",
+      "Anna Montagnini"
+    ],
+    "year": 2010,
+    "journal": "Vision Research",
+    "doi_or_url": "https://doi.org/10.1016/j.visres.2010.10.017",
+    "citation_count": 164,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4220963757",
+    "title": "A review of cybersickness in head-mounted displays: raising attention to individual susceptibility",
+    "authors": [
+      "Nana Tian",
+      "Phil Lopes",
+      "Ronan Boulic"
+    ],
+    "year": 2022,
+    "journal": "Virtual Reality",
+    "doi_or_url": "https://doi.org/10.1007/s10055-022-00638-2",
+    "citation_count": 162,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3045171465",
+    "title": "Multiple Motor Learning Processes in Humans: Defining Their Neurophysiological Bases",
+    "authors": [
+      "Danny Spampinato",
+      "Pablo Celnik"
+    ],
+    "year": 2020,
+    "journal": "The Neuroscientist",
+    "doi_or_url": "https://doi.org/10.1177/1073858420939552",
+    "citation_count": 161,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1969505475",
+    "title": "Mechanisms of Motor Adaptation in Reactive Balance Control",
+    "authors": [
+      "Torrence D. J. Welch",
+      "Lena H. Ting"
+    ],
+    "year": 2014,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0096440",
+    "citation_count": 150,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2021273964",
+    "title": "Neck Proprioception Shapes Body Orientation and Perception of Motion",
+    "authors": [
+      "Vito Enrico Pettorossi",
+      "Marco Schieppati"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2014.00895",
+    "citation_count": 144,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2297250941",
+    "title": "Delayed feedback during sensorimotor learning selectively disrupts adaptation but not strategy use",
+    "authors": [
+      "Samuel Brudner",
+      "Nikhit Kethidi",
+      "Damaris Graeupner",
+      "Richard B. Ivry",
+      "Jordan A. Taylor"
+    ],
+    "year": 2016,
+    "journal": "Journal of Neurophysiology",
+    "doi_or_url": "https://doi.org/10.1152/jn.00066.2015",
+    "citation_count": 141,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2132623416",
+    "title": "Younger Is Not Always Better: Development of Locomotor Adaptation from Childhood to Adulthood",
+    "authors": [
+      "Erin V. L. Vasudevan",
+      "Gelsy Torres\u2010Oviedo",
+      "Susanne M. Morton",
+      "Jaynie F. Yang",
+      "Amy J. Bastian"
+    ],
+    "year": 2011,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.5781-10.2011",
+    "citation_count": 140,
+    "is_high_impact": false,
+    "open_access": false,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2046107463",
+    "title": "Awareness of Sensorimotor Adaptation to Visual Rotations of Different Size",
+    "authors": [
+      "Susen Werner",
+      "Bernice C. van Aken",
+      "Thomas Hulst",
+      "Maarten A. Frens",
+      "Jos N. van der Geest",
+      "Heiko K. Str\u00fcder",
+      "Opher Donchin"
+    ],
+    "year": 2015,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0123321",
+    "citation_count": 139,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2053744511",
+    "title": "Motor Learning Interference Is Proportional to Occlusion of LTP-Like Plasticity",
+    "authors": [
+      "Gabriela Cantarero",
+      "Byron Tang",
+      "Rebecca L. O\u2019Malley",
+      "Rachel Marie E. Salas",
+      "Pablo Celnik"
+    ],
+    "year": 2013,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.4706-12.2013",
+    "citation_count": 135,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2049518612",
+    "title": "Dynamic Modulation of Cerebellar Excitability for Abrupt, But Not Gradual, Visuomotor Adaptation",
+    "authors": [
+      "John E. Schlerf",
+      "Joseph M. Galea",
+      "Amy J. Bastian",
+      "Pablo Celnik"
+    ],
+    "year": 2012,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.1609-12.2012",
+    "citation_count": 135,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2132299398",
+    "title": "Reduction in Learning Rates Associated with Anterograde Interference Results from Interactions between Different Timescales in Motor Adaptation",
+    "authors": [
+      "Gary C. Sing",
+      "Maurice A. Smith"
+    ],
+    "year": 2010,
+    "journal": "PLoS Computational Biology",
+    "doi_or_url": "https://doi.org/10.1371/journal.pcbi.1000893",
+    "citation_count": 133,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1993109823",
+    "title": "Fast But Fleeting: Adaptive Motor Learning Processes Associated with Aging and Cognitive Decline",
+    "authors": [
+      "Kevin M. Trewartha",
+      "\u00c1ngeles Garc\u00eda",
+      "Daniel M. Wolpert",
+      "J. Randall Flanagan"
+    ],
+    "year": 2014,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.1489-14.2014",
+    "citation_count": 126,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2021547057",
+    "title": "Prismatic displacement of vision induces transient changes in the timing of eye-hand coordination",
+    "authors": [
+      "Yves Rossetti",
+      "Kazuo Koga",
+      "Tadaaki Mano"
+    ],
+    "year": 1993,
+    "journal": "Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/bf03205270",
+    "citation_count": 126,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3134247756",
+    "title": "Reexposure to a sensorimotor perturbation produces opposite effects on explicit and implicit learning processes",
+    "authors": [
+      "Guy Avraham",
+      "J. Ryan Morehead",
+      "Hyosub E. Kim",
+      "Richard B. Ivry"
+    ],
+    "year": 2021,
+    "journal": "PLoS Biology",
+    "doi_or_url": "https://doi.org/10.1371/journal.pbio.3001147",
+    "citation_count": 123,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2575641725",
+    "title": "Temporal dynamics of cerebellar and motor cortex physiological processes during motor skill learning",
+    "authors": [
+      "Danny Spampinato",
+      "Pablo Celnik"
+    ],
+    "year": 2017,
+    "journal": "Scientific Reports",
+    "doi_or_url": "https://doi.org/10.1038/srep40715",
+    "citation_count": 122,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2938582804",
+    "title": "Internal model recalibration does not deteriorate with age while motor adaptation does",
+    "authors": [
+      "Koenraad Vandevoorde",
+      "Jean\u2010Jacques Orban de Xivry"
+    ],
+    "year": 2019,
+    "journal": "Neurobiology of Aging",
+    "doi_or_url": "https://doi.org/10.1016/j.neurobiolaging.2019.03.020",
+    "citation_count": 121,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3155411455",
+    "title": "The Forward Model: A Unifying Theory for the Role of the Cerebellum in Motor Control and Sense of Agency",
+    "authors": [
+      "Quentin Welniarz",
+      "Yulia Worbe",
+      "C\u00e9cile Gall\u00e9a"
+    ],
+    "year": 2021,
+    "journal": "Frontiers in Systems Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnsys.2021.644059",
+    "citation_count": 120,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2036401064",
+    "title": "Internal models in sensorimotor integration: perspectives from adaptive control theory",
+    "authors": [
+      "Chung Tin",
+      "Chi\u2010Sang Poon"
+    ],
+    "year": 2005,
+    "journal": "Journal of Neural Engineering",
+    "doi_or_url": "https://doi.org/10.1088/1741-2560/2/3/s01",
+    "citation_count": 120,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2735882816",
+    "title": "Visual Decision-Making in an Uncertain and Dynamic World",
+    "authors": [
+      "Joshua I. Gold",
+      "Alan A. Stocker"
+    ],
+    "year": 2017,
+    "journal": "Annual Review of Vision Science",
+    "doi_or_url": "https://doi.org/10.1146/annurev-vision-111815-114511",
+    "citation_count": 119,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3210018673",
+    "title": "Precision control for a flexible body representation",
+    "authors": [
+      "Jakub Limanowski"
+    ],
+    "year": 2021,
+    "journal": "Neuroscience & Biobehavioral Reviews",
+    "doi_or_url": "https://doi.org/10.1016/j.neubiorev.2021.10.023",
+    "citation_count": 113,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4225152044",
+    "title": "A survey of challenges and methods for Quality of Experience assessment of interactive VR applications",
+    "authors": [
+      "Sara Vlahovi\u0107",
+      "Mirko Su\u017enjevi\u0107",
+      "Lea Skorin\u2010Kapov"
+    ],
+    "year": 2022,
+    "journal": "Journal on Multimodal User Interfaces",
+    "doi_or_url": "https://doi.org/10.1007/s12193-022-00388-0",
+    "citation_count": 111,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2810857017",
+    "title": "Feedforward and Feedback Control Share an Internal Model of the Arm's Dynamics",
+    "authors": [
+      "Rodrigo S. Maeda",
+      "Tyler Cluff",
+      "Paul L. Gribble",
+      "J. Andrew Pruszynski"
+    ],
+    "year": 2018,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.1709-18.2018",
+    "citation_count": 106,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2340866711",
+    "title": "Visuomotor Learning Generalizes Around the Intended Movement",
+    "authors": [
+      "Kevin A. Day",
+      "Ryan T. Roemmich",
+      "Jordan A. Taylor",
+      "Amy J. Bastian"
+    ],
+    "year": 2016,
+    "journal": "eNeuro",
+    "doi_or_url": "https://doi.org/10.1523/eneuro.0005-16.2016",
+    "citation_count": 106,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2133104714",
+    "title": "Multiple Motor Learning Strategies in Visuomotor Rotation",
+    "authors": [
+      "Naoki Saijo",
+      "Hiroaki Gomi"
+    ],
+    "year": 2010,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0009399",
+    "citation_count": 105,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1999130429",
+    "title": "Reversal of Long-Term Potentiation-Like Plasticity Processes after Motor Learning Disrupts Skill Retention",
+    "authors": [
+      "Gabriela Cantarero",
+      "Ashley Lloyd",
+      "Pablo Celnik"
+    ],
+    "year": 2013,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.1399-13.2013",
+    "citation_count": 104,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2135520533",
+    "title": "Motor Adaptation Scaled by the Difficulty of a Secondary Cognitive Task",
+    "authors": [
+      "Jordan A. Taylor",
+      "Kurt A. Thoroughman"
+    ],
+    "year": 2008,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0002485",
+    "citation_count": 101,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2168462556",
+    "title": "The Human Dorsal Premotor Cortex Generates On-Line Error Corrections during Sensorimotor Adaptation",
+    "authors": [
+      "Ji-Hang Lee",
+      "Paul van Donkelaar"
+    ],
+    "year": 2006,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.3898-05.2006",
+    "citation_count": 96,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2042884725",
+    "title": "Trial-to-Trial Variability of Single Cells in Motor Cortices Is Dynamically Modified during Visuomotor Adaptation",
+    "authors": [
+      "Yael Mandelblat-Cerf",
+      "Rony Paz",
+      "Eilon Vaadia"
+    ],
+    "year": 2009,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.3011-09.2009",
+    "citation_count": 94,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3127607970",
+    "title": "Did We Get Sensorimotor Adaptation Wrong? Implicit Adaptation as Direct Policy Updating Rather than Forward-Model-Based Learning",
+    "authors": [
+      "Alkis M. Hadjiosif",
+      "John W. Krakauer",
+      "Adrian M. Haith"
+    ],
+    "year": 2021,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.2125-20.2021",
+    "citation_count": 92,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2043577874",
+    "title": "Study protocol to examine the effects of spaceflight and a spaceflight analog on neurocognitive performance: extent, longevity, and neural bases",
+    "authors": [
+      "Vincent Koppelmans",
+      "Burak Erdeniz",
+      "Yiri E. De Dios",
+      "Scott J. Wood",
+      "Patricia A. Reuter\u2010Lorenz",
+      "I. S. Kofman",
+      "Jacob J. Bloomberg",
+      "Ajitkumar P. Mulavara",
+      "Rachael D. Seidler"
+    ],
+    "year": 2013,
+    "journal": "BMC Neurology",
+    "doi_or_url": "https://doi.org/10.1186/1471-2377-13-205",
+    "citation_count": 92,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2095430826",
+    "title": "Long-term sensorimotor and therapeutical effects of a mild regime of prism adaptation in spatial neglect. A double-blind RCT essay",
+    "authors": [
+      "Gilles Rode",
+      "S. Lacour",
+      "S. Jacquin-Courtois",
+      "Laure Pisella",
+      "Carine Michel",
+      "Patrice Revol",
+      "Nadia Alahyane",
+      "Jacques Luaut\u00e9",
+      "Shaun Gallagher",
+      "Peter W. Halligan",
+      "Denis P\u00e9lisson",
+      "Yves Rossetti"
+    ],
+    "year": 2014,
+    "journal": "Annals of Physical and Rehabilitation Medicine",
+    "doi_or_url": "https://doi.org/10.1016/j.rehab.2014.10.004",
+    "citation_count": 91,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2586185816",
+    "title": "Anatomical Parameters of tDCS to Modulate the Motor System after Stroke: A Review",
+    "authors": [
+      "St\u00e9phanie Lefebvre",
+      "Sook\u2010Lei Liew"
+    ],
+    "year": 2017,
+    "journal": "Frontiers in Neurology",
+    "doi_or_url": "https://doi.org/10.3389/fneur.2017.00029",
+    "citation_count": 90,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2162732651",
+    "title": "Using virtual reality to augment perception, enhance sensorimotor adaptation, and change our minds",
+    "authors": [
+      "W. Geoffrey Wright"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Systems Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnsys.2014.00056",
+    "citation_count": 87,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2991568623",
+    "title": "Improving visuo-motor learning with cerebellar theta burst stimulation: Behavioral and neurophysiological evidence",
+    "authors": [
+      "Giacomo Koch",
+      "Romina Esposito",
+      "Caterina Motta",
+      "Elias Paolo Casula",
+      "Francesco Di Lorenzo",
+      "Sonia Bonn\u0131\u0300",
+      "Alex Martino Cinnera",
+      "Viviana Ponzo",
+      "Michele Maiella",
+      "Silvia Picazio",
+      "Martina Assogna",
+      "Fabrizio Sallustio"
+    ],
+    "year": 2019,
+    "journal": "NeuroImage",
+    "doi_or_url": "https://doi.org/10.1016/j.neuroimage.2019.116424",
+    "citation_count": 85,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2965340962",
+    "title": "Practice induces a qualitative change in the memory representation for visuomotor learning",
+    "authors": [
+      "David M. Huberdeau",
+      "John W. Krakauer",
+      "Adrian M. Haith"
+    ],
+    "year": 2019,
+    "journal": "Journal of Neurophysiology",
+    "doi_or_url": "https://doi.org/10.1152/jn.00830.2018",
+    "citation_count": 85,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2583022698",
+    "title": "Cerebellar\u2013M1 Connectivity Changes Associated with Motor Learning Are Somatotopic Specific",
+    "authors": [
+      "Danny Spampinato",
+      "Hannah J. Block",
+      "Pablo Celnik"
+    ],
+    "year": 2017,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.2511-16.2017",
+    "citation_count": 85,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2007253355",
+    "title": "Visuomotor Learning Enhanced by Augmenting Instantaneous Trajectory Error Feedback during Reaching",
+    "authors": [
+      "James L. Patton",
+      "Yejun Wei",
+      "Preeti Bajaj",
+      "Robert A. Scheidt"
+    ],
+    "year": 2013,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0046466",
+    "citation_count": 84,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3004437238",
+    "title": "Task Errors Drive Memories That Improve Sensorimotor Adaptation",
+    "authors": [
+      "Li\u2010Ann Leow",
+      "Welber Marinovic",
+      "Aymar de Rugy",
+      "Timothy J. Carroll"
+    ],
+    "year": 2020,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.1506-19.2020",
+    "citation_count": 82,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2062458625",
+    "title": "Adaptation to Visual Feedback Delay Influences Visuomotor Learning",
+    "authors": [
+      "Takuya Honda",
+      "Masaya Hirashima",
+      "Daichi Nozaki"
+    ],
+    "year": 2012,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0037900",
+    "citation_count": 81,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3008635698",
+    "title": "Age-related reduction in motor adaptation: brain structural correlates and the role of explicit memory",
+    "authors": [
+      "Noham Wolpe",
+      "James N. Ingram",
+      "Kamen A. Tsvetanov",
+      "Richard N. Henson",
+      "Daniel M. Wolpert",
+      "Lorraine K. Tyler",
+      "Carol Brayne",
+      "Edward T. Bullmore",
+      "Andrew C. Calder",
+      "Rhodri Cusack",
+      "Tim Dalgleish",
+      "John Duncan"
+    ],
+    "year": 2020,
+    "journal": "Neurobiology of Aging",
+    "doi_or_url": "https://doi.org/10.1016/j.neurobiolaging.2020.02.016",
+    "citation_count": 80,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2968454831",
+    "title": "The effects of awareness of the perturbation during motor adaptation on hand localization",
+    "authors": [
+      "Shanaathanan Modchalingam",
+      "Chad Vachon",
+      "Bernard Marius \u2019t Hart",
+      "Denise Y. P. Henriques"
+    ],
+    "year": 2019,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0220884",
+    "citation_count": 80,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2066212691",
+    "title": "Learning-Induced Improvement in Encoding and Decoding of Specific Movement Directions by Neurons in the Primary Motor Cortex",
+    "authors": [
+      "Rony Paz",
+      "Eilon Vaadia"
+    ],
+    "year": 2004,
+    "journal": "PLoS Biology",
+    "doi_or_url": "https://doi.org/10.1371/journal.pbio.0020045",
+    "citation_count": 79,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2144635628",
+    "title": "Is neural hyperpolarization by cathodal stimulation always detrimental at the behavioral level?",
+    "authors": [
+      "Cornelia Pirulli",
+      "Anna Fertonani",
+      "Carlo Miniussi"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Behavioral Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnbeh.2014.00226",
+    "citation_count": 78,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2152916334",
+    "title": "Laterality Differences in Cerebellar\u2013Motor Cortex Connectivity",
+    "authors": [
+      "John E. Schlerf",
+      "Joseph M. Galea",
+      "Danny Spampinato",
+      "Pablo Celnik"
+    ],
+    "year": 2014,
+    "journal": "Cerebral Cortex",
+    "doi_or_url": "https://doi.org/10.1093/cercor/bht422",
+    "citation_count": 78,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2418275050",
+    "title": "One step ahead: The perceived kinematics of others\u2019 actions are biased toward expected goals.",
+    "authors": [
+      "Matthew Hudson",
+      "Toby Nicholson",
+      "William A. Simpson",
+      "Rob Ellis",
+      "Patric Bach"
+    ],
+    "year": 2015,
+    "journal": "Journal of Experimental Psychology General",
+    "doi_or_url": "https://doi.org/10.1037/xge0000126",
+    "citation_count": 77,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2867681399",
+    "title": "Using gaze behavior to parcellate the explicit and implicit contributions to visuomotor learning",
+    "authors": [
+      "Anouk J. de Brouwer",
+      "Mohammed Albaghdadi",
+      "J. Randall Flanagan",
+      "Jason P. Gallivan"
+    ],
+    "year": 2018,
+    "journal": "Journal of Neurophysiology",
+    "doi_or_url": "https://doi.org/10.1152/jn.00113.2018",
+    "citation_count": 76,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1979368080",
+    "title": "Neuronal Correlates of Memory Formation in Motor Cortex after Adaptation to Force Field",
+    "authors": [
+      "Fritzie I. Arce\u2010McShane",
+      "Itai Novick",
+      "Yael Mandelblat-Cerf",
+      "Eilon Vaadia"
+    ],
+    "year": 2010,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.1603-10.2010",
+    "citation_count": 74,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2908556655",
+    "title": "A Review of Acute Aerobic Exercise and Transcranial Direct Current Stimulation Effects on Cognitive Functions and Their Potential Synergies",
+    "authors": [
+      "Fabian Steinberg",
+      "Nils Henrik Pixa",
+      "Felipe Fregni"
+    ],
+    "year": 2019,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2018.00534",
+    "citation_count": 73,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2604872871",
+    "title": "Visuomotor adaptation in head-mounted virtual reality versus conventional training",
+    "authors": [
+      "Julia Anglin",
+      "Taisei Sugiyama",
+      "Sook\u2010Lei Liew"
+    ],
+    "year": 2017,
+    "journal": "Scientific Reports",
+    "doi_or_url": "https://doi.org/10.1038/srep45469",
+    "citation_count": 73,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1972634021",
+    "title": "Estimating the Relevance of World Disturbances to Explain Savings, Interference and Long-Term Motor Adaptation Effects",
+    "authors": [
+      "Max Berniker",
+      "Konrad P. K\u00f6rding"
+    ],
+    "year": 2011,
+    "journal": "PLoS Computational Biology",
+    "doi_or_url": "https://doi.org/10.1371/journal.pcbi.1002210",
+    "citation_count": 73,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2057535375",
+    "title": "Visuomotor Adaptation Changes Stereoscopic Depth Perception and Tactile Discrimination",
+    "authors": [
+      "Robert Volcic",
+      "Carlo Fantoni",
+      "Corrado Caudek",
+      "John A. Assad",
+      "Fulvio Domini"
+    ],
+    "year": 2013,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.2936-13.2013",
+    "citation_count": 71,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2139159664",
+    "title": "Prismatic Adaptation Changes Visuospatial Representation in the Inferior Parietal Lobule",
+    "authors": [
+      "Sonia Crottaz\u2010Herbette",
+      "Eleonora Fornari",
+      "St\u00e9phanie Clarke"
+    ],
+    "year": 2014,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.3184-13.2014",
+    "citation_count": 70,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1977822137",
+    "title": "Gain Field Encoding of the Kinematics of Both Arms in the Internal Model Enables Flexible Bimanual Action",
+    "authors": [
+      "Atsushi Yokoi",
+      "Masaya Hirashima",
+      "Daichi Nozaki"
+    ],
+    "year": 2011,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.2982-11.2011",
+    "citation_count": 68,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1975496606",
+    "title": "Specificity of Speech Motor Learning",
+    "authors": [
+      "St\u00e9phanie Tremblay",
+      "Guillaume Houle",
+      "David J. Ostry"
+    ],
+    "year": 2008,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.4196-07.2008",
+    "citation_count": 67,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2963264040",
+    "title": "A review of grasping as the movements of digits in space",
+    "authors": [
+      "Jeroen B. J. Smeets",
+      "Katinka van der Kooij",
+      "Eli Brenner"
+    ],
+    "year": 2019,
+    "journal": "Journal of Neurophysiology",
+    "doi_or_url": "https://doi.org/10.1152/jn.00123.2019",
+    "citation_count": 65,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1987433044",
+    "title": "Robustness of muscle synergies during visuomotor adaptation",
+    "authors": [
+      "R. Gentner",
+      "Timothy Edmunds",
+      "Dinesh K. Pai",
+      "Andrea d\u2019Avella"
+    ],
+    "year": 2013,
+    "journal": "Frontiers in Computational Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fncom.2013.00120",
+    "citation_count": 65,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1973057298",
+    "title": "Visuomotor adaptive improvement and aftereffects are impaired differentially following cerebellar lesions in SCA and PICA territory",
+    "authors": [
+      "Susen Werner",
+      "Otmar Bock",
+      "Elke R. Gizewski",
+      "Beate Schoch",
+      "Dagmar Timmann"
+    ],
+    "year": 2009,
+    "journal": "Experimental Brain Research",
+    "doi_or_url": "https://doi.org/10.1007/s00221-009-2052-6",
+    "citation_count": 65,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2346267161",
+    "title": "EEG Theta Dynamics within Frontal and Parietal Cortices for Error Processing during Reaching Movements in a Prism Adaptation Study Altering Visuo-Motor Predictive Planning",
+    "authors": [
+      "Pieranna Arrighi",
+      "Luca Bonfiglio",
+      "Fabrizio Minichilli",
+      "N. Cantore",
+      "Maria Chiara Carboncini",
+      "Emily Piccotti",
+      "Bruno Rossi",
+      "Paolo Andr\u00e9"
+    ],
+    "year": 2016,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0150265",
+    "citation_count": 64,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4281654484",
+    "title": "Enhance VR: A Multisensory Approach to Cognitive Training and Monitoring",
+    "authors": [
+      "Vict\u00f2ria Brugada-Ramentol",
+      "Amir Bozorgzadeh",
+      "Hossein Jalali"
+    ],
+    "year": 2022,
+    "journal": "Frontiers in Digital Health",
+    "doi_or_url": "https://doi.org/10.3389/fdgth.2022.916052",
+    "citation_count": 63,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3125364297",
+    "title": "Implicit motor learning within three trials",
+    "authors": [
+      "Jennifer E. Ruttle",
+      "Bernard Marius \u2019t Hart",
+      "Denise Y. P. Henriques"
+    ],
+    "year": 2021,
+    "journal": "Scientific Reports",
+    "doi_or_url": "https://doi.org/10.1038/s41598-021-81031-y",
+    "citation_count": 63,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2979203269",
+    "title": "Minimizing Precision-Weighted Sensory Prediction Errors via Memory Formation and Switching in Motor Adaptation",
+    "authors": [
+      "Young-Min Oh",
+      "Nicolas Schweighofer"
+    ],
+    "year": 2019,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.3250-18.2019",
+    "citation_count": 61,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2892304173",
+    "title": "Neural correlates of multi-day learning and savings in sensorimotor adaptation",
+    "authors": [
+      "Marit F. L. Ruitenberg",
+      "Vincent Koppelmans",
+      "Yiri E. De Dios",
+      "N. E. Gadd",
+      "Scott J. Wood",
+      "Patricia A. Reuter\u2010Lorenz",
+      "I. S. Kofman",
+      "Jacob J. Bloomberg",
+      "Ajitkumar P. Mulavara",
+      "Rachael D. Seidler"
+    ],
+    "year": 2018,
+    "journal": "Scientific Reports",
+    "doi_or_url": "https://doi.org/10.1038/s41598-018-32689-4",
+    "citation_count": 61,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2134385106",
+    "title": "Separate representations of dynamics in rhythmic and discrete movements: evidence from motor learning",
+    "authors": [
+      "Ian S. Howard",
+      "James N. Ingram",
+      "Daniel M. Wolpert"
+    ],
+    "year": 2011,
+    "journal": "Journal of Neurophysiology",
+    "doi_or_url": "https://doi.org/10.1152/jn.00780.2010",
+    "citation_count": 60,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2574234460",
+    "title": "Anodal Transcranial Direct Current Stimulation Shows Minimal, Measure-Specific Effects on Dynamic Postural Control in Young and Older Adults: A Double Blind, Sham-Controlled Study",
+    "authors": [
+      "Chesney E. Craig",
+      "Michail Doumas"
+    ],
+    "year": 2017,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0170331",
+    "citation_count": 59,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2215637622",
+    "title": "Split-belt walking adaptation recalibrates sensorimotor estimates of leg speed but not position or force",
+    "authors": [
+      "Alejandro V\u00e1zquez",
+      "Matthew A. Statton",
+      "Stefanie A. Busgang",
+      "Amy J. Bastian"
+    ],
+    "year": 2015,
+    "journal": "Journal of Neurophysiology",
+    "doi_or_url": "https://doi.org/10.1152/jn.00302.2015",
+    "citation_count": 59,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2103561949",
+    "title": "Intermittent Practice Facilitates Stable Motor Memories",
+    "authors": [
+      "Simon A. Overduin",
+      "Andrew G. Richardson",
+      "Courtney E. Lane",
+      "Emilio Bizzi",
+      "Daniel Z. Press"
+    ],
+    "year": 2006,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.1320-06.2006",
+    "citation_count": 59,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4401216600",
+    "title": "Fundamental processes in sensorimotor learning: Reasoning, refinement, and retrieval",
+    "authors": [
+      "Jonathan S. Tsay",
+      "Hyosub E. Kim",
+      "Samuel D. McDougle",
+      "Jordan A. Taylor",
+      "Adrian M. Haith",
+      "Guy Avraham",
+      "John W. Krakauer",
+      "Anne Collins",
+      "Richard B. Ivry"
+    ],
+    "year": 2024,
+    "journal": "eLife",
+    "doi_or_url": "https://doi.org/10.7554/elife.91839",
+    "citation_count": 58,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3039429011",
+    "title": "Cerebellar \u2013 Premotor cortex interactions underlying visuomotor adaptation",
+    "authors": [
+      "Elinor Tzvi",
+      "Fabian Koeth",
+      "Anke Ninija Karabanov",
+      "Hartwig R. Siebner",
+      "Ulrike M. Kr\u00e4mer"
+    ],
+    "year": 2020,
+    "journal": "NeuroImage",
+    "doi_or_url": "https://doi.org/10.1016/j.neuroimage.2020.117142",
+    "citation_count": 58,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2941355153",
+    "title": "Adapting terminology: clarifying prism adaptation vocabulary, concepts, and methods",
+    "authors": [
+      "Claude Prablanc",
+      "Francesco Panico",
+      "Lisa Fleury",
+      "Laure Pisella",
+      "Tanja C.W. Nijboer",
+      "Shigeru Kitazawa",
+      "Yves Rossetti"
+    ],
+    "year": 2019,
+    "journal": "Neuroscience Research",
+    "doi_or_url": "https://doi.org/10.1016/j.neures.2019.03.003",
+    "citation_count": 57,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2735024502",
+    "title": "Sensorimotor Learning: Neurocognitive Mechanisms and Individual Differences",
+    "authors": [
+      "Rachael D. Seidler",
+      "Richard G. Carson"
+    ],
+    "year": 2017,
+    "journal": "Journal of NeuroEngineering and Rehabilitation",
+    "doi_or_url": "https://doi.org/10.1186/s12984-017-0279-1",
+    "citation_count": 57,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2799682477",
+    "title": "Characteristics of the gait adaptation process due to split-belt treadmill walking under a wide range of right-left speed ratios in humans",
+    "authors": [
+      "Hikaru Yokoyama",
+      "Koji Sato",
+      "Tetsuya Ogawa",
+      "Shin-Ichiro Yamamoto",
+      "Kimitaka Nakazawa",
+      "Noritaka Kawashima"
+    ],
+    "year": 2018,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0194875",
+    "citation_count": 56,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  }
+]

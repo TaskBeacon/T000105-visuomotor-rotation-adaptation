@@ -1,0 +1,25 @@
+{
+  "id": "P1",
+  "title": "Large-scale citizen science reveals predictors of sensorimotor adaptation",
+  "authors": [],
+  "year": 2024,
+  "journal": "Nature Human Behaviour",
+  "doi_or_url": "https://www.nature.com/articles/s41562-023-01798-0",
+  "citation_count": 40,
+  "is_high_impact": true,
+  "open_access": true,
+  "used_for": [
+    "primary_protocol",
+    "trial_timing",
+    "stimuli",
+    "outcome_definitions"
+  ],
+  "parameter_bindings": {},
+  "notes": "Publisher page plus publicly accessible author manuscript verified on 2026-08-29.",
+  "source_kind": "url",
+  "source_locator": "https://www.nature.com/articles/s41562-023-01798-0",
+  "attachments": {
+    "paper_pdf": null,
+    "methods_path": null
+  }
+}

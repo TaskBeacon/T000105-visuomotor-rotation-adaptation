@@ -1,0 +1,44 @@
+[
+  {
+    "id": "W2083905756",
+    "title": "Explicit and Implicit Contributions to Learning in a Sensorimotor Adaptation Task",
+    "authors": ["Jordan A. Taylor", "John W. Krakauer", "Richard B. Ivry"],
+    "year": 2014,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/JNEUROSCI.3619-13.2014",
+    "citation_count": 893,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": ["explicit_implicit_interpretation", "continuous_feedback_rationale"],
+    "parameter_bindings": {},
+    "notes": "Open full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC3931506/"
+  },
+  {
+    "id": "W1602511075",
+    "title": "Explicit and Implicit Processes Constitute the Fast and Slow Processes of Sensorimotor Learning",
+    "authors": ["Samuel D. McDougle", "Krista M. Bond", "Jordan A. Taylor"],
+    "year": 2015,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/JNEUROSCI.5061-14.2015",
+    "citation_count": 427,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": ["early_late_learning_interpretation", "implicit_aftereffect_interpretation"],
+    "parameter_bindings": {},
+    "notes": "Open full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC4571499/"
+  },
+  {
+    "id": "W1987840011",
+    "title": "The Influence of Movement Preparation Time on the Expression of Visuomotor Learning and Savings",
+    "authors": ["Adrian M. Haith", "David M. Huberdeau", "John W. Krakauer"],
+    "year": 2015,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/JNEUROSCI.3869-14.2015",
+    "citation_count": 270,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": ["rapid_reaching_rationale", "aftereffect_interpretation"],
+    "parameter_bindings": {},
+    "notes": "Open full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC6705405/"
+  }
+]

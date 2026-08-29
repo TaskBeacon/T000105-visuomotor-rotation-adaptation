@@ -1,0 +1,17 @@
+# Stimulus Mapping
+
+## Mapping Table
+
+| Condition | Stage/Phase | Stimulus IDs | Participant-Facing Content | Source Paper ID | Evidence (quote/figure/table) | Implementation Mode | Asset References | Notes |
+|---|---|---|---|---|---|---|---|---|
+| all | instruction | `instruction` | Chinese instructions: move the white cursor rapidly so it crosses the blue target; return to center between reaches. | P1 | Public task demo and Methods describe the single goal and mouse/trackpad movement. | psychopy_builtin | none | Does not disclose the perturbation. |
+| all | comprehension check | `comprehension_check` | Choose whether the goal is to find a movement that brings the white dot to the target or always move directly at the target. | P1 | Methods, instruction check. | psychopy_builtin | none | Correct key is A. |
+| all | homing/hold | `start_annulus`, `reach_cursor` | White annulus at workspace center; white cursor is visible only within the search radius and must remain centered for 500 ms. | P1 | Methods, trial initiation and search phase. | psychopy_builtin | none | Target is absent during hold. |
+| `baseline` | reach | `start_annulus`, `target`, `reach_cursor` | Blue peripheral circle and continuously visible white cursor with veridical movement direction. | P1 | Methods, veridical-feedback trials; Fig. 1. | psychopy_builtin | none | Target location is fixed within participant. |
+| `adaptation` | reach | `start_annulus`, `target`, `reach_cursor` | Blue peripheral circle and white cursor whose trajectory is rotated 45 degrees clockwise or counterclockwise. | P1 | Methods, rotated-feedback trials; Fig. 1. | psychopy_builtin | none | Direction is counterbalanced between participants. |
+| `aftereffect` | instruction | `aftereffect_instruction` | Stop using any aiming strategy and move directly toward the blue target; cursor will be hidden during the movement. | P1 | Results describe the direct-reach, no-visual-feedback instruction used to assess aftereffect. | psychopy_builtin | none | Critical instruction for implicit recalibration probe. |
+| `aftereffect` | reach | `start_annulus`, `target`, `reach_cursor` | Blue peripheral circle; white cursor disappears immediately after leaving start and remains absent during movement. | P1 | Methods, no-feedback trials. | psychopy_builtin | none | Veridical cursor reappears only near center during the next search phase. |
+| `baseline` | attention check | `attention_check` | Prompt to press the letter B to continue. | P1 | Methods, attention checks within the first 20 trials. | psychopy_builtin | none | One deterministic check is used because the source does not report count. |
+| all | timeout | `too_slow` | Red Chinese message meaning “too slow” centered for 750 ms. | P1 | Methods specify red 20-point Times New Roman message and duration. | psychopy_builtin | none | SimHei is used for Chinese glyph coverage. |
+| all | endpoint | `reach_cursor` | Veridical or rotated white endpoint freezes for 50 ms at the target radius; no-feedback trials show no endpoint. | P1 | Methods, endpoint freeze behavior. | psychopy_builtin | none | The trajectory is functional task feedback, not an illustration. |
+| all | completion | `good_bye` | Summary of early adaptation, late adaptation, and aftereffect hand angles. | P1 | Fig. 1 and data-analysis definitions. | psychopy_builtin | none | Summary is an implementation aid and not part of the original experimental manipulation. |

@@ -1,0 +1,65 @@
+subinfo_fields: [{name: subject_id, type: int, constraints: {min: 101, max: 999, digits: 3}}]
+subinfo_mapping: {subject_id: 被试号, Participant Information: 被试信息, registration_failed: 注册失败, registration_successful: 注册成功, invalid_input: "字段 {field} 输入无效"}
+window: {size: [1280, 800], units: deg, screen: 0, bg_color: black, fullscreen: false, monitor_width_cm: 35.5, monitor_distance_cm: 57}
+task:
+  task_name: Visuomotor Rotation Adaptation
+  save_path: ./outputs/sim
+  language: Chinese
+  voice_name: zh-CN-YunyangNeural
+  voice_enabled: false
+  total_blocks: 3
+  total_trials: 9
+  trial_per_block: 3
+  conditions: [baseline, adaptation, aftereffect]
+  condition_weights: null
+  baseline_trials: 3
+  adaptation_trials: 4
+  aftereffect_trials: 2
+  target_angles_deg: [90]
+  rotation_magnitude_deg: 45
+  target_distance_deg: 6.0
+  marker_radius_deg: 0.25
+  cursor_radius_deg: 0.16
+  search_visibility_radius_deg: 2.0
+  reaction_threshold_deg: 1.0
+  attention_check_after_trial: 2
+  analysis_window: 2
+  check_keys: [a, b]
+  key_list: [a, b, space]
+  seed_mode: same_within_sub
+  overall_seed: 105105
+  plan_seed: 105105
+  delta: 0.0
+  phase_order: [instruction, comprehension_check, homing, start_hold, reach, too_slow, attention_check, adaptation_instruction, aftereffect_instruction, good_bye]
+timing: {start_hold_duration: 0.50, movement_deadline: 0.50, endpoint_freeze_duration: 0.05, too_slow_duration: 0.10, check_deadline: 3.0}
+stimuli:
+  instruction: {type: text, font: SimHei, text: "视觉运动旋转适应任务\n\n把白点移回中央；蓝色目标出现后快速移动白点穿过目标，不要点击。\n\n按【空格键】继续。", color: white, height: 0.58, wrapWidth: 24, pos: [0, 0]}
+  comprehension_check: {type: text, font: SimHei, text: "按【A】：找到能让白点到达目标的移动方向。\n按【B】：始终直接朝目标移动。", color: white, height: 0.60, wrapWidth: 23, pos: [0, 0]}
+  attention_check: {type: text, font: SimHei, text: "注意检查：请按【B】继续。", color: white, height: 0.70, pos: [0, 0]}
+  adaptation_instruction: {type: text, font: SimHei, text: "继续让白点快速切过蓝色目标。按【空格键】继续。", color: white, height: 0.62, pos: [0, 0]}
+  aftereffect_instruction: {type: text, font: SimHei, text: "白点将在移动时隐藏。停止使用瞄准策略，直接朝蓝色目标移动。按【空格键】继续。", color: white, height: 0.60, wrapWidth: 24, pos: [0, 0]}
+  start_annulus: {type: circle, radius: 0.25, fillColor: null, lineColor: white, lineWidth: 2, pos: [0, 0]}
+  target: {type: circle, radius: 0.25, fillColor: "#2563EB", lineColor: "#93C5FD", lineWidth: 1, pos: [0, 6]}
+  reach_cursor: {type: circle, radius: 0.16, fillColor: white, lineColor: "#D1D5DB", lineWidth: 1, pos: [0, 0]}
+  too_slow: {type: text, font: SimHei, text: "太慢了", color: "#EF4444", height: 0.72, pos: [0, 0]}
+  good_bye: {type: text, font: SimHei, text: "任务完成\n有效移动：{valid_trial_count} / {trial_count}\n超时：{timeout_count}\n早期适应：{early_adaptation}\n晚期适应：{late_adaptation}\n移除旋转后的效应：{aftereffect}\n按【空格键】退出。", color: white, height: 0.58, wrapWidth: 24, pos: [0, 0]}
+triggers:
+  map: {experiment_start: 1, comprehension_check: 5, baseline_start: 10, adaptation_start: 11, aftereffect_start: 12, homing_onset: 20, start_hold_onset: 21, target_baseline: 30, target_adaptation: 31, target_aftereffect: 32, movement_onset: 40, reach_complete: 50, reach_timeout: 51, cursor_hit: 52, attention_check: 60, aftereffect_instruction: 61, check_correct: 62, check_failed: 63, baseline_end: 90, adaptation_end: 91, aftereffect_end: 92, experiment_end: 99}
+  driver: {type: serial_url, url: "loop://", baudrate: 115200, timeout: 1}
+  policy: {strict: false}
+  timing: {post_delay_s: 0.001}
+sim:
+  output_dir: outputs/sim
+  seed: 105105
+  participant_id: sim105
+  session_id: sub-sim105_task-visuomotor-rotation-adaptation_scripted
+  log_path: outputs/sim/sub-sim105_task-visuomotor-rotation-adaptation_sim_events.jsonl
+  policy: warn
+  default_rt_s: 0.05
+  clamp_rt: true
+  enable_scaling: true
+  timing_scale: 0.05
+  min_frames: 1
+  responder:
+    type: scripted
+    kwargs: {rt_s: 0.25}
