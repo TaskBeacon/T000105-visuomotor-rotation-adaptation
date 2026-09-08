@@ -45,7 +45,7 @@ stimuli:
   good_bye: {type: text, font: SimHei, text: "任务完成\n有效移动：{valid_trial_count} / {trial_count}\n超时：{timeout_count}\n早期适应：{early_adaptation}\n晚期适应：{late_adaptation}\n移除旋转后的效应：{aftereffect}\n按【空格键】退出。", color: white, height: 0.58, wrapWidth: 24, pos: [0, 0]}
 triggers:
   map: {experiment_start: 1, comprehension_check: 5, baseline_start: 10, adaptation_start: 11, aftereffect_start: 12, homing_onset: 20, start_hold_onset: 21, target_baseline: 30, target_adaptation: 31, target_aftereffect: 32, movement_onset: 40, reach_complete: 50, reach_timeout: 51, cursor_hit: 52, attention_check: 60, aftereffect_instruction: 61, check_correct: 62, check_failed: 63, baseline_end: 90, adaptation_end: 91, aftereffect_end: 92, experiment_end: 99}
-  driver: {type: serial_url, url: "loop://", baudrate: 115200, timeout: 1}
+  driver: {type: mock, print_codes: true}
   policy: {strict: false}
   timing: {post_delay_s: 0.001}
 sim:
